@@ -167,4 +167,9 @@ User Name: credisis
 - Configuração do Docker e Docker Compose
 - Sistema de Login
 
+Motivo: Infelizmente tive alguns bugs e
+queda de energia em casa, que me custaram muito tempo,
+prejudicando a resolução dos bônus.
+
+
 Feito por Vinícius Guimarães
