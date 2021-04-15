@@ -1,4 +1,4 @@
-##Sobre o projeto <br>
+## Sobre o projeto <br>
 - URI padrão: ```http://localhost:8080/api/v1/```
 - A API de gerenciamento de Estados e Cidades possui os seguintes métodos HTTP: <br>
 ```GET, PUT, DELETE, POST``` <br>
@@ -166,7 +166,5 @@ User Name: credisis
 - Testes Unitários com JUnit e Mockito
 - Configuração do Docker e Docker Compose
 - Sistema de Login
-
-Motivo: Infelizmente tive alguns bugs e queda de energia em casa, que me custaram muito tempo, prejudicando a resolução dos bônus.
 
 Feito por Vinícius Guimarães
