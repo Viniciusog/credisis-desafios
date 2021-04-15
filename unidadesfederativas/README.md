@@ -7,7 +7,7 @@
 - Banco de dados MySQL para o desenvolvimento e H2 Database para perfil de teste.
 
 ---
-### Json Cidade
+### Cidade
 ```json
 {
     "nome": "Ji-Paraná",
@@ -21,7 +21,7 @@
 }
 ```
 
-### Json Estado
+### Estado
 
 ```json
 {
