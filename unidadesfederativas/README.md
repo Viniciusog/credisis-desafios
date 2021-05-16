@@ -5,7 +5,7 @@
 - Gerenciamento de exceções com geração de mensagem personalizada para cada tipo de erro.
 - Uso do ```lombok``` para diminuição das dependências entre as classes.
 - Banco de dados MySQL para o desenvolvimento e H2 Database para perfil de teste.
-
+Jdhdhsj
 ---
 ### Cidade
 ```json
