@@ -5,7 +5,7 @@
 - Gerenciamento de exceções com geração de mensagem personalizada para cada tipo de erro.
 - Uso do ```lombok``` para diminuição das dependências entre as classes.
 - Banco de dados MySQL para o desenvolvimento e H2 Database para perfil de teste.
-Jdhdhsj
+
 ---
 ### Cidade
 ```json
@@ -166,10 +166,5 @@ User Name: credisis
 - Testes Unitários com JUnit e Mockito
 - Configuração do Docker e Docker Compose
 - Sistema de Login
-
-Motivo: Infelizmente tive alguns bugs e
-queda de energia em casa, que me custaram muito tempo,
-prejudicando a resolução dos bônus.
-
 
 Feito por Vinícius Guimarães
